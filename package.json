@@ -1,0 +1,14 @@
+{
+  "name": "test-logs",
+  "description": "Refactorización de logs en pillars, work directory",
+  "version": "0.0.1",
+  "author": {
+    "name": "Chelo Quilón Gómez",
+    "email": "cheloq@gmail.com"
+  },
+  "dependencies": {
+    "pillars": "*"
+  },
+  "main": "./app.js",
+  "license": "MIT"
+}
